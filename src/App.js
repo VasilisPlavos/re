@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Vasilis React App
+          Vasilis React App for Brain
         </p>
         <a
           className="App-link"
